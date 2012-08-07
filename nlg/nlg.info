@@ -1,0 +1,5 @@
+name = nlg
+description = "Provide web interface to Nagios data via Nagios Looking Glass"
+core = 7.x
+package = "Monitoring" 
+php = 5.2
